@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain-ollama
+langchain-core
+pandas
+chromadb
